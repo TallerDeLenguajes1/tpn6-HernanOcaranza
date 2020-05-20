@@ -1,0 +1,13 @@
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.exe
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.deps.json
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.runtimeconfig.json
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.runtimeconfig.dev.json
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.dll
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\bin\Debug\netcoreapp3.1\TrabajoPractico6.pdb
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.csprojAssemblyReference.cache
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.AssemblyInfoInputs.cache
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.AssemblyInfo.cs
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.csproj.CoreCompileInputs.cache
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.dll
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.pdb
+D:\repogit\tpn6-HernanOcaranza\TrabajoPractico6\TrabajoPractico6\obj\Debug\netcoreapp3.1\TrabajoPractico6.genruntimeconfig.cache
