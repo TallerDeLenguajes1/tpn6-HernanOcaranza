@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrabajoPractico6
+namespace TP6
 {
     class Program
     {

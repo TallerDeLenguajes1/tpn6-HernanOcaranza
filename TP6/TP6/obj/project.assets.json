@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repogit\\tpn6-HernanOcaranza\\TrabajoPractico6\\TrabajoPractico6\\TrabajoPractico6.csproj",
-      "projectName": "TrabajoPractico6",
-      "projectPath": "D:\\repogit\\tpn6-HernanOcaranza\\TrabajoPractico6\\TrabajoPractico6\\TrabajoPractico6.csproj",
+      "projectUniqueName": "D:\\repogit\\tpn6-HernanOcaranza\\TP6\\TP6\\TP6.csproj",
+      "projectName": "TP6",
+      "projectPath": "D:\\repogit\\tpn6-HernanOcaranza\\TP6\\TP6\\TP6.csproj",
       "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
-      "outputPath": "D:\\repogit\\tpn6-HernanOcaranza\\TrabajoPractico6\\TrabajoPractico6\\obj\\",
+      "outputPath": "D:\\repogit\\tpn6-HernanOcaranza\\TP6\\TP6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
